@@ -1,2 +1,2 @@
 # provisioning-files-collection
-A collection of provisiong files created during the development of Hacking Square 
+A collection of provisioning files created during the development of Hacking Square 
